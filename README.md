@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Dustin
+- 👀 I’m interested in learning Lua
+- 🌱 I’m currently learning Lua scripting
